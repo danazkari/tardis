@@ -96,7 +96,7 @@ $ composer-playground -p 5000
 This should be all you need to run the playground locally. Have fun with it!
 
 
-[this blogpost]: https://gorillalogic.com/blog/hyperledger-fabric-tutorial-part-1-make-your-own-blockchain
+[this blogpost]: https://gorillalogic.com/blog/hyperledger-fabric-developer-tutorial-part-1-make-your-own-blockchain
 [the Docker store]: https://store.docker.com/editions/community/docker-ce-desktop-mac
 [http://localhost:9000/]: http://localhost:9000/
 [explore]: http://localhost:9000/explorer
